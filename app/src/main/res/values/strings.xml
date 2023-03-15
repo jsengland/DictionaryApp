@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Words</string>
+    <string name="show_all">Show all</string>
+    <string name="show_active">Show active</string>
+    <string name="show_inactive">Show Inactive</string>
+    <string name="add_word">Add word</string>
+</resources>
